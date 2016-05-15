@@ -1,0 +1,32 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>55bb3941ee1b4.jpg</file>
+        <file>Image_21d3a32.jpg</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>ice1.jpg</file>
+        <file>ice2.jpg</file>
+        <file>pp.jpg</file>
+        <file>14300000937838128482394542056.jpg</file>
+        <file>bg_1.png</file>
+        <file>TB1xn.KGpXXXXbFXpXXXXXXXXXX_!!0-item_pic.jpg_240x240q50</file>
+        <file>44.jpg_240x240q50</file>
+        <file>banana.jpg</file>
+        <file>banana2.jpg</file>
+        <file>banana1.png</file>
+        <file>banana21.png</file>
+        <file>vu.png</file>
+        <file>forchetta2.png</file>
+        <file>forchetta21.png</file>
+        <file>vu2.png</file>
+        <file>15465.jpg</file>
+        <file>561532.png</file>
+        <file>icec.png</file>
+        <file>icew.png</file>
+        <file>icecream_05.png</file>
+        <file>icecream_03.png</file>
+        <file>276.png</file>
+        <file>113470909_5646798_0_9309d_6cb5634d_L.png</file>
+        <file>523px-Tongue_(Rolling_Stones).png</file>
+    </qresource>
+</RCC>
