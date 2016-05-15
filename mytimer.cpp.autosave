@@ -1,6 +1,0 @@
-#include "mytimer.h"
-#include <QtCore>
-Mytimer::Mytimer()
-{
-
-}
