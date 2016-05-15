@@ -35,6 +35,7 @@ private slots:
     void keyPressEvent(QKeyEvent * event);
     void Score();
     void runagain();
+    void closed();
 signals:
     void showdig();
 private:

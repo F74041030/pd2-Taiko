@@ -171,3 +171,7 @@ void MainWindow::receivelogin()
 
     this->show();//显示主窗口
 }
+void MainWindow::closed()
+{
+    this->close();
+}

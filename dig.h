@@ -24,6 +24,7 @@ private slots:
 
 signals:
     void showmainwindow();
+    void allclose();
 
 private:
     Ui::dig *ui;

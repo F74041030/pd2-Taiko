@@ -23,7 +23,9 @@ void dig::on_pushButton_clicked()
 
 void dig::on_pushButton_2_clicked()
 {
+
     this -> close();
+    emit allclose();
 }
 void dig::receivelogout()
 {
